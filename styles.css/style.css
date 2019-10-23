@@ -1,0 +1,25 @@
+h1 span{
+    color: red;
+}
+p span{
+    color: black;
+    font-weight: bold;
+}
+.st1 li{
+    list-style-type: none; 
+}
+.st1 li:before{
+    content: "·"; 
+}
+.st2 li{
+    list-style-type: none; 
+}
+.st2 li:before{
+    content: "§"; 
+}
+.st3 li{
+    list-style-type: none; 
+}
+.st3 li:before{
+    content: "o"; 
+}

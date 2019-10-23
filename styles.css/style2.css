@@ -1,0 +1,16 @@
+.Audi img{
+width: 200px;
+height: 160px;
+border: 0;
+} 
+span{
+    color: blue;
+}
+#P1 p{
+    color: red;
+    font-weight: lucida;
+}
+#P2 p{
+    color: green;
+    font-weight: impact; 
+}
